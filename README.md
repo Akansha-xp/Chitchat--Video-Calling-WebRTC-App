@@ -19,7 +19,7 @@ The RTC IceCandidate interface—part of the WebRTC API—represents a candidate
 2. Enable Cloud Firestore and Create database in the Cloud Firestore pane.
 3. Select the Start in test mode.
 4. Clone the GitHub repository from the command line:
-   ### git clone https://github.com/XitizVerma/Chitchat--Video-Calling-WebRTC-App
+   ### git clone https://github.com/Akansha-xp/Chitchat--Video-Calling-WebRTC-App
 5. Install the Firebase Command Line Interface.
    ### npm -g install firebase-tools
    The Firebase Command Line Interface (CLI) allows us to serve our web app locally and deploy our web app to Firebase Hosting.
